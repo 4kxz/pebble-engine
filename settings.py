@@ -1,0 +1,6 @@
+DEBUG = False
+TITLE = "Title Goes Here"
+WIDTH = 1280
+HEIGHT = 640
+SCALE = 32
+DELTA = 1 / 120
